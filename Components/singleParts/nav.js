@@ -3,7 +3,7 @@ const nav = () => {
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
-                <a className="btn btn-ghost normal-case text-xl"><img src='/Logo.png' alt="" /></a>
+                <img src='/Logo.png' alt="" />
             </div>
             <div className="flex-none">
                 <ul className="menu menu-horizontal px-1 font-semibold">
