@@ -1,7 +1,7 @@
 
 const nav = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar">
             <div className="flex-1">
                 <img src='/Logo.png' alt="" />
             </div>
