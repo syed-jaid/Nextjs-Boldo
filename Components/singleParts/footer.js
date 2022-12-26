@@ -1,8 +1,8 @@
 
 const footer = () => {
     return (
-        <div>
-            <footer class="footer bg-base-100 text-base-content px-[100px] pt-[100px] pb-[50px]">
+        <div className=" bg-base-100 px-[70px] py-[70px]">
+            <footer class="footer py-10 bg-base-100 text-base-content">
                 <div>
                     <span class="footer-title">Services</span>
                     <a class="link link-hover">Branding</a>
@@ -24,7 +24,7 @@ const footer = () => {
                     <a class="link link-hover">Cookie policy</a>
                 </div>
             </footer>
-            <footer class="footer px-[100px] py-5 border-t bg-base-100 text-base-content border-base-300">
+            <footer class="footer  py-5 border-t bg-base-100 text-base-content border-base-300">
                 <div class="items-center grid-flow-col">
                     <img src="/Logo.png" alt="" />
                     <p>Boldo Industries Ltd. <br />Providing reliable tech since 1592</p>

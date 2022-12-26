@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
 body {
   color: rgb(var(--foreground-rgb));
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
+  background-color: rgb(246, 246, 246) !important;
 }
