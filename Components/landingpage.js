@@ -3,6 +3,7 @@ import Header from "./singleParts/header";
 import Services from "./singleParts/services";
 import Connection from "./singleParts/connection";
 import Review from "./singleParts/review";
+import Faq from "./singleParts/faq";
 
 const landingpage = () => {
     return (
@@ -14,6 +15,7 @@ const landingpage = () => {
             <Services />
             <Connection />
             <Review />
+            <Faq />
         </>
     );
 };

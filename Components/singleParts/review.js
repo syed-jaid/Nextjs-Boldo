@@ -28,7 +28,7 @@ const review = () => {
                 <div className='bg-white p-[40px] w-[350px] rounded-[12px]'>
                     <p className='text-[24px]'>“Learning curve infrastructure value proposition <br /> advisor strategy user experience hypotheses investor.”</p>
                     <div className='flex gap-[16px] mt-[40px]'>
-                        <img src="/person1.png" alt="" />
+                        <img src="/person2.png" alt="" />
                         <div>
                             <p className='font-semibold text-[16px]'>Severus Snape</p>
                             <small>Manager @ Slytherin</small>
@@ -38,7 +38,7 @@ const review = () => {
                 <div className='bg-white p-[40px] w-[350px] rounded-[12px] h-[358px]'>
                     <p className='text-[24px]'>“Release facebook responsive web design business model canvas seed money monetization.”</p>
                     <div className='flex gap-[16px] mt-[40px]'>
-                        <img src="/person1.png" alt="" />
+                        <img src="/person3.png" alt="" />
                         <div>
                             <p className='font-semibold text-[16px]'>Harry Potter</p>
                             <small>Team Leader @ Gryffindor</small>
