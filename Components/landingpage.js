@@ -2,6 +2,7 @@ import Nav from "./singleParts/nav";
 import Header from "./singleParts/header";
 import Services from "./singleParts/services";
 import Connection from "./singleParts/connection";
+import Review from "./singleParts/review";
 
 const landingpage = () => {
     return (
@@ -12,6 +13,7 @@ const landingpage = () => {
             </div>
             <Services />
             <Connection />
+            <Review />
         </>
     );
 };

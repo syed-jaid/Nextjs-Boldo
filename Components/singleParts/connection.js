@@ -1,6 +1,7 @@
 import { AiOutlineCheckCircle } from 'react-icons/ai';
 import { FaLeaf } from 'react-icons/fa';
 import { MdOutlineLightMode } from 'react-icons/md';
+import { GiAtomicSlashes } from 'react-icons/gi';
 
 const connection = () => {
     return (
@@ -22,7 +23,7 @@ const connection = () => {
                         <FaLeaf className='text-[20px] inline mr-[10px] mr-[20px]' /><p> We connect our customers with the best.</p>
                     </div>
                     <div className='flex items-center shadow-md px-[20px] py-[16px] rounded-[5px] mb-[30px]'>
-                        <FaLeaf className='text-[20px] inline mr-[10px] mr-[20px]' /><p> Advisor success customer launch party.</p>
+                        <GiAtomicSlashes className='text-[20px] inline mr-[10px] mr-[20px]' /><p> Advisor success customer launch party.</p>
                     </div>
                     <div className='flex items-center shadow-md px-[20px] py-[16px] rounded-[5px] '>
                         <MdOutlineLightMode className='text-[20px] inline mr-[10px] mr-[20px]' /><p> Business-to-consumer long tail.</p>
