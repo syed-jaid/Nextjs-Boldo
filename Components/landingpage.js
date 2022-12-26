@@ -5,6 +5,8 @@ import Connection from "./singleParts/connection";
 import Review from "./singleParts/review";
 import Faq from "./singleParts/faq";
 import BlogPart from "./singleParts/blogPart";
+import ConnectUs from "./singleParts/connectUs";
+import Footer from "./singleParts/footer";
 
 const landingpage = () => {
     return (
@@ -18,6 +20,8 @@ const landingpage = () => {
             <Review />
             <Faq />
             <BlogPart />
+            <ConnectUs />
+            <Footer />
         </>
     );
 };
