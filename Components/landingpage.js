@@ -4,6 +4,7 @@ import Services from "./singleParts/services";
 import Connection from "./singleParts/connection";
 import Review from "./singleParts/review";
 import Faq from "./singleParts/faq";
+import BlogPart from "./singleParts/blogPart";
 
 const landingpage = () => {
     return (
@@ -16,6 +17,7 @@ const landingpage = () => {
             <Connection />
             <Review />
             <Faq />
+            <BlogPart />
         </>
     );
 };
