@@ -1,8 +1,10 @@
-import React from 'react'
+import Nav from '../Components/singleParts/nav'
 
 export default function about() {
     return (
-        <div>about
+        <div>
+            <Nav />
+            about
             <img src="/sl1" alt="" />
             <img src="/sl2" alt="" />
             <img src="/sm" alt="" />
