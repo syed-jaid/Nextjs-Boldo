@@ -5,9 +5,11 @@ import ImageGrid from './serSinglepart/imagegrid'
 export default function landingServices() {
     return (
         <>
-            <div className='pt-[50px] px-[100px] h-[700px] bg-[#0A2640]'>
-                <SNav />
-                <SHeader />
+            <div className='bg-white'>
+                <div className='pt-[50px] px-[100px] h-[700px] bg-[#0A2640]'>
+                    <SNav />
+                    <SHeader />
+                </div>
                 <ImageGrid />
             </div>
         </>
