@@ -1,7 +1,8 @@
 import SNav from './serSinglepart/sNav'
 import SHeader from './serSinglepart/sHeader'
 import ImageGrid from './serSinglepart/imagegrid'
-
+import ConnectUs from "./singleParts/connectUs";
+import Footer from "./singleParts/footer";
 export default function landingServices() {
     return (
         <>
@@ -11,6 +12,8 @@ export default function landingServices() {
                     <SHeader />
                 </div>
                 <ImageGrid />
+                <ConnectUs />
+                <Footer />
             </div>
         </>
     )
