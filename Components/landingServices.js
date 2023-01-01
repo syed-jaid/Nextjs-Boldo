@@ -1,6 +1,8 @@
 import SNav from './serSinglepart/sNav'
 import SHeader from './serSinglepart/sHeader'
 import ImageGrid from './serSinglepart/imagegrid'
+import Mummers from './serSinglepart/mumbers'
+import Teams from './serSinglepart/teams'
 import ConnectUs from "./singleParts/connectUs";
 import Footer from "./singleParts/footer";
 export default function landingServices() {
@@ -12,6 +14,8 @@ export default function landingServices() {
                     <SHeader />
                 </div>
                 <ImageGrid />
+                <Mummers />
+                <Teams />
                 <ConnectUs />
                 <Footer />
             </div>
