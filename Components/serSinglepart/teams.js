@@ -37,7 +37,7 @@ const teams = () => {
                     <p className='text-start text-[20px] text-[#777777] mt-[12px]'>General Manager</p>
                 </div>
                 <div>
-                    <img src="/team1.png" alt="" />
+                    <img src="/team2.png" alt="" />
                     <p className='text-start text-[28px] mt-[20px]'>Pam Beetsley</p>
                     <p className='text-start text-[20px] text-[#777777] mt-[12px]'>General Manager</p>
                 </div>
